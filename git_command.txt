@@ -5,3 +5,7 @@ git restore testing.py
 clear
 git commit -m "Added testing files"
 git status
+mkdir
+chmod
+pwd
+ls
