@@ -9,3 +9,6 @@ mkdir
 chmod
 pwd
 ls
+
+
+this is some new changes 
