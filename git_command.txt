@@ -1,0 +1,7 @@
+git status
+rm testing.py
+git status
+git restore testing.py
+clear
+git commit -m "Added testing files"
+git status

@@ -1,1 +1,1 @@
-print("HELLO ICH BIN ARJIT")it
+print("HELLO ICH BIN ARJIT")
