@@ -1,11 +1,11 @@
 def my_function():
 
     a = 13
-    b = 7
-    c = f
+    password = "1234"
+    return a + password
 
-    return f
+my_function()
    
-  my_function()
+  
 
     
